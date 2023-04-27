@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             if(sp.getString(usr, "").equals(psw)){
                 Intent i=new Intent();
                 i.putExtra("username", usr);
-                i.setClass(this, SecretActivity.class);
+                i.setClass(this, CalendarActivity.class);
                 startActivity(i);
             }else{
                 Context context = getApplicationContext();
