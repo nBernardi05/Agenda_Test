@@ -29,6 +29,9 @@
             android:name="com.example.prova230323.SecretActivity"
             android:exported="false" />
         <activity
+            android:name="com.example.prova230323.CalendarMainActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.prova230323.MainActivity"
             android:exported="true" >
             <intent-filter>

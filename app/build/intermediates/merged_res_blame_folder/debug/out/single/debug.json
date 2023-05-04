@@ -1,66 +1,78 @@
 [
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_secret.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\layout\\activity_secret.xml"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_secret.xml.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\layout\\activity_secret.xml"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "F:\\Prova230323\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "F:\\Prova230323\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_calendar.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\UtentiLocali\\Users\\android.ITISLEVI\\Agenda_Test\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     }
 ]
