@@ -2908,6 +2908,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addE
 id alertTitle
 id aligned
 id all
@@ -2935,6 +2936,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnDelete
 id button
 id button2
 id buttonPanel
@@ -2978,6 +2980,7 @@ id custom
 id customPanel
 id cut
 id data
+id dataOggi
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3011,7 +3014,6 @@ id easeIn
 id easeInOut
 id easeOut
 id east
-id editTextDate
 id edit_query
 id elastic
 id embed
@@ -3035,7 +3037,6 @@ id fitXY
 id fixed
 id flip
 id floating
-id floatingActionButton
 id forever
 id fragment_container_view_tag
 id frost
@@ -3200,6 +3201,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rview
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3326,6 +3328,10 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txtDate
+id txtEndTime
+id txtStartTime
+id txtTitle
 id unchecked
 id uniform
 id unlabeled
@@ -3537,6 +3543,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout task_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph

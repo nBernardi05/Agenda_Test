@@ -2907,6 +2907,7 @@ int id action_text 0x7f080047
 int id actions 0x7f080048
 int id activity_chooser_view_content 0x7f080049
 int id add 0x7f08004a
+int id addE 0x7f080207
 int id alertTitle 0x7f08004b
 int id aligned 0x7f08004c
 int id all 0x7f08004d
@@ -2934,6 +2935,7 @@ int id bounce 0x7f080062
 int id bounceBoth 0x7f080063
 int id bounceEnd 0x7f080064
 int id bounceStart 0x7f080065
+int id btnDelete 0x7f080208
 int id button 0x7f080066
 int id button2 0x7f080067
 int id buttonPanel 0x7f080068
@@ -2977,6 +2979,7 @@ int id custom 0x7f08008d
 int id customPanel 0x7f08008e
 int id cut 0x7f08008f
 int id data 0x7f080090
+int id dataOggi 0x7f080205
 int id date_picker_actions 0x7f080091
 int id decelerate 0x7f080092
 int id decelerateAndComplete 0x7f080093
@@ -3010,7 +3013,6 @@ int id easeIn 0x7f0800ae
 int id easeInOut 0x7f0800af
 int id easeOut 0x7f0800b0
 int id east 0x7f0800b1
-int id editTextDate 0x7f0800b2
 int id edit_query 0x7f0800b3
 int id elastic 0x7f0800b4
 int id embed 0x7f0800b5
@@ -3034,7 +3036,6 @@ int id fitXY 0x7f0800c6
 int id fixed 0x7f0800c7
 int id flip 0x7f0800c8
 int id floating 0x7f0800c9
-int id floatingActionButton 0x7f0800ca
 int id forever 0x7f0800cb
 int id fragment_container_view_tag 0x7f0800cc
 int id frost 0x7f0800cd
@@ -3199,6 +3200,7 @@ int id right_icon 0x7f08016b
 int id right_side 0x7f08016c
 int id rounded 0x7f08016d
 int id row_index_key 0x7f08016e
+int id rview 0x7f080206
 int id save_non_transition_alpha 0x7f08016f
 int id save_overlay_view 0x7f080170
 int id sawtooth 0x7f080171
@@ -3325,6 +3327,10 @@ int id transition_position 0x7f0801e9
 int id transition_scene_layoutid_cache 0x7f0801ea
 int id transition_transform 0x7f0801eb
 int id triangle 0x7f0801ec
+int id txtDate 0x7f080209
+int id txtEndTime 0x7f08020a
+int id txtStartTime 0x7f08020b
+int id txtTitle 0x7f08020c
 int id unchecked 0x7f0801ed
 int id uniform 0x7f0801ee
 int id unlabeled 0x7f0801ef
@@ -3536,6 +3542,7 @@ int layout select_dialog_item_material 0x7f0b0068
 int layout select_dialog_multichoice_material 0x7f0b0069
 int layout select_dialog_singlechoice_material 0x7f0b006a
 int layout support_simple_spinner_dropdown_item 0x7f0b006b
+int layout task_item 0x7f0b006c
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
 int navigation nav_graph 0x7f0e0000
